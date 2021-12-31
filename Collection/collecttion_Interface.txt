@@ -1,0 +1,7 @@
+why should go for collection :
+     >It is an Interface
+     > if you want to represent a group of individual object as single entity then we should go for collcetion
+     > In General this interface is Root for All collection interface and class but not 100% due to Map
+     > It define general method which applicable for all other collection interface and class
+     like :
+       add , addAll , remove, removeAll , retainAll,clear , contain ,containAll , size , toArray , interator(Iterator class)     
