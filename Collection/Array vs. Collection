@@ -1,0 +1,15 @@
+           Arrays                        vs.                   Collection
+  
+    i)Fixed in Size                                 Growable in nature
+    
+   ii)Memory wise bad                               Memory Wise good  
+        because of fixed size                           because of growable size   
+        
+  iii)Not implemented based                         Every Class and interface implemented base on Standard data structure.
+       on DataStructure
+       
+  iv)Contains Homogenous Element                   Contains both Homogenous and Heterogenous element.
+     except for object type
+     
+   v)Primitive and object can hold                  Here object only can hold 
+     
