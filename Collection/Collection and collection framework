@@ -1,0 +1,11 @@
+Collection :
+              If you want to represent a group of individual object as single entity then we should go for collection.
+              
+              
+Collection FrameWork :
+               A group of class and interface are required to represent a group of individual object.
+               
+               so,required  class and interface are defined here.
+               
+               
+collection concept is not new to java. it is also availble known as container.
