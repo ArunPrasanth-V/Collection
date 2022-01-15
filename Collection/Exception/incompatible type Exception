@@ -1,0 +1,9 @@
+For Example :
+             In an int array if we represent double or other data type then it shows compile time error which is incompatible.
+             eg:
+              int []a={12.5};
+             
+             TO overcome this problem we need one that can hold both homogenous and heterogenous element.
+              ->Either we can go 
+                         i)Object Array unlike specfic type like int , double.
+                         ii)COllection.
