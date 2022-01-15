@@ -1,0 +1,8 @@
+If Knew size in advance then go for Array because performance wise Array is best compare to Collection .
+
+In Collection default size would be "10". once the size is completely filled then another size will be allocated which is double the previous size.
+  eg:
+     In collection having a 1 lack element which was completely filled.Then i'm inserting 1 element in that collection object ** for Inserting 1 element another 
+     will created size of 2 lack**.
+     
+    
