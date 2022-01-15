@@ -4,4 +4,5 @@ why should go for collection :
      > In General this interface is Root for All collection interface and class but not 100% due to Map
      > It define general method which applicable for all other collection interface and class
      like :
+     
        add , addAll , remove, removeAll , retainAll,clear , contain ,containAll , size , toArray , iterator(Iterator class)     
